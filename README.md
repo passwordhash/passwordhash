@@ -21,9 +21,36 @@ backend разработчки</h3>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!--START_SECTION:waka-->
-SHOW_COMMIT
-SHOW_DAYS_OF_WEEK
-SHOW_LANGUAGE
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 95.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 64 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I Mostly Code in Go** 
+
+```text
+Go                       5 repos             ████████████████░░░░░░░░░   62.50 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/passwordhash/passwordhash/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/11/2023 20:08:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
