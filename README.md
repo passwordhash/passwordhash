@@ -79,13 +79,6 @@ Swift                    1 repo              ███░░░░░░░░�
 Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
-
-
-**График**
-
-![Lines of Code chart](https://raw.githubusercontent.com/passwordhash/passwordhash/main/assets/bar_graph.png)
-
-
 <!--END_SECTION:waka-->
 
 <!--
