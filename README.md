@@ -7,7 +7,8 @@ backend разработчик</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=passwordhash" alt="passwordhash" /></a> </p>-->
 
-- 🔭 Сейчас я активно разрабатываю проект [Grates](https://github.com/passwordhash/grates)
+<!-- - 🔭 Сейчас я активно разрабатываю проект [Grates](https://github.com/passwordhash/grates) -->
+- 🔭 Сейчас я прохожу стажировку в компании Wildberries на позиции backend -->
 
 - 🌱 Изучаю **Golang**
 
