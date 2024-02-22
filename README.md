@@ -22,7 +22,7 @@ backend разработчик</h3>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs-blue)
 
 **Я ночная 🦉** 
 
