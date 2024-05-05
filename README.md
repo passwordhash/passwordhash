@@ -8,7 +8,7 @@ backend разработчик</h3>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=passwordhash" alt="passwordhash" /></a> </p>-->
 
 <!-- - 🔭 Сейчас я активно разрабатываю проект [Grates](https://github.com/passwordhash/grates) -->
-- 🔭 Сейчас учусь, постигаю Си -->
+- 🔭 Сейчас учусь, постигаю Си
 
 - 🌱 Изучаю **Golang**, **С**
 
