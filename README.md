@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Ярослав</h1>
-<h3 align="center">я студент мгту им Н.Э. Баумана и 
+<h3 align="center">я студент мгту им Н.Э. Баумана,
 backend разработчик</h3>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
@@ -8,9 +8,9 @@ backend разработчик</h3>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=passwordhash" alt="passwordhash" /></a> </p>-->
 
 <!-- - 🔭 Сейчас я активно разрабатываю проект [Grates](https://github.com/passwordhash/grates) -->
-- 🔭 Сейчас учусь, постигаю Си
+<!--- 🔭 Сейчас учусь, постигаю Си-->
 
-- 🌱 Изучаю **Golang**, **С**
+- 🌱 Постигаю **Golang**, изучаю **С**
 
 - 📫 Связаться по telegram **@prostoYaroslav**
 
