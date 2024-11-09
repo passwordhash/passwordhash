@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Ярослав</h1>
-<h3 align="center">я студент мгту им Н.Э. Баумана,
+<h3 align="center">я студент МГТУ им Н.Э. Баумана,
 backend разработчик</h3>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
