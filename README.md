@@ -1,16 +1,6 @@
-<h1 align="center">Привет 👋, меня зовут Ярослав</h1>
-<h3 align="center">я студент МГТУ им Н.Э. Баумана,
-backend разработчик</h3>
+<h3 align="center">Привет 👋, меня зовут Ярослав</h3>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
--->
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=passwordhash" alt="passwordhash" /></a> </p>-->
-
-<!-- - 🔭 Сейчас я активно разрабатываю проект [Grates](https://github.com/passwordhash/grates) -->
-<!--- 🔭 Сейчас учусь, постигаю Си-->
-
-- 🌱 Постигаю **Golang**, изучаю **С**
+- 🦫 Я являюсь Backend разработчиком на Go с зачатками DevOps'a
 
 - 📫 Связаться по telegram **@prostoYaroslav**
 
